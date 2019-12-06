@@ -11,7 +11,7 @@ model:
   filename: models_gen.go
 models:
   Todo:
-    model: github.com/laurensiusadi/gqlgen-todos/models.Todo
+    model: github.com/laurensiusadi/gqlgen-todos.Todo
 resolver:
   filename: resolver.go
   type: Resolver
